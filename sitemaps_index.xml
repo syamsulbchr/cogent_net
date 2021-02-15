@@ -16,7 +16,28 @@
 
    <url>
 
-      <loc>https://cogentbladesmith.net/corporate</loc>
+      <loc>https://cogentbladesmith.net/About.html</loc>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+      <url>
+
+      <loc>https://cogentbladesmith.net/Personal.html</loc>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+      <url>
+
+      <loc>https://cogentbladesmith.net/corporate.html</loc>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+      <url>
+
+      <loc>https://cogentbladesmith.net/faq.html</loc>
 
       <changefreq>weekly</changefreq>
 

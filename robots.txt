@@ -8,4 +8,7 @@ User-agent: Googlebot-Image
 Disallow:
 
 https://cogentbladesmith.net/
+https://cogentbladesmith.net/About.html
+https://cogentbladesmith.net/Personal.html
 https://cogentbladesmith.net/corporate.html
+https://cogentbladesmith.net/faq.html
